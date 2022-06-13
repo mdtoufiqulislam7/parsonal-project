@@ -1,0 +1,91 @@
+h2{
+    color: deeppink;
+    
+}
+.smith{
+
+   width: 40%; 
+   float: left;
+    margin-left:5% ;
+    padding: 2%;
+    padding-bottom: 30px;
+    
+    
+    
+    
+}
+.smith img{
+    width: 70%;
+}
+.help{
+
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: deeppink;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.jack{
+    background-image: url("personal-website/header-bg.png");
+    
+    
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 40px;
+}
+.bio{
+
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.s{
+    width: 23%;
+}
+#ccc{
+    text-align: center;
+    color: deeppink;
+    font-size: 28px;
+}
+.last{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#bbb{
+    text-align: center;
+    font-size: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+    color: dimgrey;
+}
+footer{
+    text-align: center;
+
+}
+#ddd{
+    font-size: 18px;
+    color: dimgray;
+}
+.footer{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+    
+}
+#eee{
+    font-size: 18px;
+}
+.final{
+    padding: 5px 5px 5px 5px;
+    background-color: palevioletred;
+    width: 100%;
+    border-radius: 5px;
+    
+
+}
